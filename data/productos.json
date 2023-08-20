@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Caja 1",
+        "tipo": "caja",
+        "desc": "200x200x100 (mm)",
+        "precio": 42,
+        "talle": "TU",
+        "imagen": "../public/images/caja1.PNG",
+        "cantidad": 0
+    },
+    {
+        "id": 2,
+        "nombre": "Caja 2",
+        "tipo": "caja",
+        "desc": "250x200x200 (mm)",
+        "precio": 48,
+        "talle": "TU",
+        "imagen": "../public/images/caja2.PNG",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Caja 3",
+        "tipo": "caja",
+        "desc": "304x185x132 (mm)",
+        "precio": 56,
+        "talle": "TU",
+        "imagen": "../public/images/caja3.PNG",
+        "cantidad": 1
+    }
+]
